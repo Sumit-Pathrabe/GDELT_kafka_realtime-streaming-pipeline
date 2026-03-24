@@ -7,8 +7,7 @@
 
 ## 📌 Project Overview
 An end-to-end, fault-tolerant streaming data pipeline that ingests live global news events, processes them through a decoupled Lakehouse architecture, and visualizes geopolitical sentiment in real-time. 
-
-**[Insert your dashboard.png screenshot here. To do this in GitHub, just drag and drop the image file into the edit window, and it will generate a link for you!]**
+<img width="1300" height="732" alt="dashboard" src="https://github.com/user-attachments/assets/dcebf08b-ee54-4139-9673-0b5f1978ea01" />[readme.md](https://github.com/user-attachments/files/26224082/readme.md)
 
 ## 🏗️ System Architecture
 

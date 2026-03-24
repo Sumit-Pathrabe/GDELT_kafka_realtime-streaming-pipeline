@@ -35,6 +35,7 @@ graph TD
     classDef default fill:#1A1A1A,stroke:#4CAF50,stroke-width:2px,color:#fff;
     classDef database fill:#2C3E50,stroke:#3498DB,stroke-width:2px,color:#fff;
     class F database;
+
 🚀 The Business Problem & Solution (STAR Method)
 Situation: Relying on static daily data dumps means business decisions are always 24 hours behind. Analysts needed a way to monitor global events and geopolitical sentiment shifts (Goldstein Scale) in real-time without manual intervention.
 

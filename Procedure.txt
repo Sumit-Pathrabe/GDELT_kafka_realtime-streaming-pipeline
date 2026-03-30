@@ -1,0 +1,4 @@
+venv\Scripts\activate
+Open your web browser and go to your Databricks Workspace.
+1_GDELT_Kafka_Consumer
+Run the cell (Shift + Enter).

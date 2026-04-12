@@ -78,4 +78,4 @@ Bash
 python ingest_gdelt.py
 Trigger the Lakehouse Micro-batch: Run the spark_consumer.py notebook in your Databricks workspace to pull the queue into the Delta Table.
 
-Architected and developed by Sumit Pathrabe.
+Architected and developed by Sumit.
